@@ -1,3 +1,3 @@
 private class AnswerSheet{
-	private  String namme;
+	private  String name; //添加注释
 }
